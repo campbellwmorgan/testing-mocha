@@ -1,0 +1,18 @@
+{
+  "name": "LearnMochaJS",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/istanbul test ./node_modules/.bin/_mocha -- -R spec"
+  },
+  "author": "Besart Shyti",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^1.9.1",
+    "express": "^4.11.1",
+    "istanbul": "^0.3.2",
+    "mocha": "^1.21.4",
+    "sinon": "^1.12.2"
+  }
+}
