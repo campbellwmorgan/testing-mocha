@@ -1,5 +1,5 @@
 var app      = require('express')();
-var UserCtrl = require("./ctrl/user.js");
+var UserCtrl = require("./ctrl/user.js")();
 
 app.get("/", UserCtrl.get);
 
