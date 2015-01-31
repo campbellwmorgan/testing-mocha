@@ -1,4 +1,4 @@
-var Contacts = require("./inject.js");
+Contacts = require("./inject.js");
 
 var User = {};
 
