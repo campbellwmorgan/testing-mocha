@@ -1,5 +1,3 @@
-## Tesing ctrl mocking database obj
-
 The code to test in `./ctrl/user.js`
 ----
 
